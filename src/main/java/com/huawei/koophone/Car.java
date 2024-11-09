@@ -12,4 +12,8 @@ public class Car {
     public int subtract(int a, int b) {
         return a - b;
     }
+
+    public void func(){
+
+    }
 }
